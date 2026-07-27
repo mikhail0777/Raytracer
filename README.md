@@ -75,4 +75,4 @@ cargo build --release
 # Run the renderer (adjust CLI arguments based on your implementation)
 cargo run --release -- -o output.png
 
-![preview](https://mkhl.dev/assets/raytrace.png)
+
