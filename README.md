@@ -17,6 +17,7 @@ Rendered at **512 samples per pixel** (1280x720) in **2 minutes** on CPU. Tone-m
 ![Suzanne Render](output.png)
 
 ---
+[See write up on my website](https://mkhl.dev/projects/raytracer)
 
 ## ⚡ Performance: Comparison with Blender Cycles
 
@@ -73,8 +74,5 @@ cargo build --release
 
 # Run the renderer (adjust CLI arguments based on your implementation)
 cargo run --release -- -o output.png
-
-
-[See write up on my website](https://mkhl.dev/projects/raytracer)
 
 ![preview](https://mkhl.dev/assets/raytrace.png)
