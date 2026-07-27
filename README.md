@@ -4,4 +4,4 @@ Nothing too complicated, a CPU ray tracer written in Rust. Has BVH and simple im
 
 [See write up on my website](https://mkhl.dev/projects/raytracer)
 
-![preview](https://mkhl.dev/assets/raytrace-mixed.png.webp)
+![preview](https://mkhl.dev/assets/raytrace.png)
